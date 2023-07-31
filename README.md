@@ -1,5 +1,5 @@
 # recipes
 
-A small collection of some favorite recipes.
+Just a small website created as part of The Odin Project curriculum to test my understanding of HTML and CSS.
 
-Using primarily plain HTML, I intend to make a small brutalist website with just a handful of some of my favorite recipes.
+I don't actually make toast all that often tbh
