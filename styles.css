@@ -1,0 +1,30 @@
+* {
+    background-color: #32343a;
+    color: #efefef;
+}
+
+img {
+  width: 800px;
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.body {
+    margin: auto;
+    max-width: 70%;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: smaller;
+}
